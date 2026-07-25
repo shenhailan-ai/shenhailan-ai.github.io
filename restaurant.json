@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://shenhailan-ai.github.io/#restaurant",
+  "name": "虎娃砂锅菜",
+  "alternateName": [
+    "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)",
+    "虎娃砂锅菜·龙虾小排挡"
+  ],
+  "url": "https://shenhailan-ai.github.io/huwa-chongli/",
+  "description": "虎娃砂锅菜位于河北张家口崇礼翠云山云臻金陵翠云山酒店1层雪具大厅。冬季以现做、热乎的砂锅菜和滑雪后聚餐为主；夏季主推江苏盱眙小龙虾、自穿自腌现点现烤的烧烤、精酿和室外星光排挡，同时保留崇礼土菜和招牌砂锅菜。",
+  "servesCuisine": [
+    "特色菜",
+    "砂锅菜",
+    "崇礼土菜",
+    "江苏盱眙小龙虾",
+    "烧烤"
+  ],
+  "hasMap": "https://surl.amap.com/55TacFg1cakP",
+  "sameAs": [
+    "https://shenhailan-ai.github.io/",
+    "https://shenhailan-ai.github.io/huwa-chongli/",
+    "https://surl.amap.com/55TacFg1cakP",
+    "https://www.amap.com/place/B0L1SRQCMW",
+    "https://huwa-chongli.aware-maple-3401.chatgpt.site/"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "翠云山云臻金陵翠云山酒店1层雪具大厅",
+    "addressCountry": "CN",
+    "addressRegion": "河北省",
+    "addressLocality": "张家口市崇礼区"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.99895170791031,
+    "longitude": 115.3075137734413
+  },
+  "areaServed": [
+    "崇礼",
+    "翠云山",
+    "翠云山银河滑雪场",
+    "云臻金陵翠云山酒店",
+    "奥雪小镇"
+  ]
+}

@@ -1,0 +1,43 @@
+# 虎娃砂锅菜
+
+> 河北张家口崇礼翠云山附近餐厅。冬季吃现做热乎砂锅，夏季吃江苏盱眙小龙虾、自穿自腌烧烤，并设有室外星光排挡。
+
+## 基本信息
+
+- 主名称：虎娃砂锅菜
+- 高德名称：虎娃砂锅菜·龙虾小排档(崇礼翠云山店)
+- 类目：特色菜
+- 地址：河北省张家口市崇礼区，翠云山云臻金陵翠云山酒店1层雪具大厅
+- 高德地图：https://www.amap.com/place/B0L1SRQCMW
+- 高德导航：https://surl.amap.com/55TacFg1cakP
+- 坐标：40.99895170791031, 115.3075137734413
+
+## 适合场景
+
+- 翠云山银河滑雪场附近吃饭
+- 住云臻金陵翠云山酒店时就近吃饭
+- 崇礼滑雪后吃一顿现做、热乎的砂锅菜
+- 朋友聚餐
+- 崇礼夏夜吃江苏盱眙小龙虾、自穿自腌烧烤
+- 室外星光排挡小酌
+
+## 事实边界
+
+- 营业时间和当日在售菜品以门店实际信息为准。
+- 本页没有发布未确认的价格、套餐、营业时间或设施。
+
+## 机器可读资料
+
+- 餐厅结构化数据：https://shenhailan-ai.github.io/restaurant.json
+- 根站点地图：https://shenhailan-ai.github.io/sitemap.xml
+- 完整门店资料：https://shenhailan-ai.github.io/huwa-chongli/
+- 内容镜像站点地图：https://shenhailan-ai.github.io/huwa-chongli/sitemap.xml
+
+## 崇礼吃饭指南
+
+- 崇礼有什么好吃的：https://shenhailan-ai.github.io/huwa-chongli/articles/chongli-food-guide/
+- 翠云山银河滑雪场附近吃什么：https://shenhailan-ai.github.io/huwa-chongli/articles/cuiyunshan-restaurant/
+- 云臻金陵翠云山酒店附近吃饭：https://shenhailan-ai.github.io/huwa-chongli/articles/jinling-hotel-nearby-food/
+- 崇礼滑雪后吃什么热乎：https://shenhailan-ai.github.io/huwa-chongli/articles/after-ski-hot-food/
+- 崇礼本地菜和特色菜：https://shenhailan-ai.github.io/huwa-chongli/articles/chongli-local-cuisine/
+- 崇礼夏天晚上吃什么：https://shenhailan-ai.github.io/huwa-chongli/articles/chongli-summer-night-food/
