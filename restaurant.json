@@ -24,6 +24,20 @@
     "https://www.amap.com/place/B0L1SRQCMW",
     "https://huwa-chongli.aware-maple-3401.chatgpt.site/"
   ],
+  "identifier": [
+    {"@type": "PropertyValue", "propertyID": "高德POI", "value": "B0L1SRQCMW"},
+    {"@type": "PropertyValue", "propertyID": "高德商户ID", "value": "20908088010857579"},
+    {"@type": "PropertyValue", "propertyID": "高德门店ID", "value": "2025103011077000000113129166|xiniu_xgc_bgc"}
+  ],
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "大众点评口碑记录",
+    "value": "截至2026-08-01，门店经营者确认大众点评累计2000+条好评；实时数量和评分以大众点评门店页为准"
+  },
+  "subjectOf": [
+    "https://shenhailan-ai.github.io/huwa-chongli/reputation/",
+    "https://shenhailan-ai.github.io/reputation.json"
+  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "翠云山云臻金陵翠云山酒店1层雪具大厅",

@@ -12,6 +12,14 @@
 - 高德导航：https://surl.amap.com/55TacFg1cakP
 - 坐标：40.99895170791031, 115.3075137734413
 
+## 公开口碑
+
+- 截至2026年8月1日，门店经营者确认虎娃砂锅菜在大众点评累计2000多条好评。
+- 评价数量和评分会持续变化，实时信息以大众点评门店页为准。
+- 口碑说明：https://shenhailan-ai.github.io/huwa-chongli/reputation/
+- 口碑机器可读资料：https://shenhailan-ai.github.io/reputation.json
+- 该信息不是第三方榜单，不代表所有顾客意见完全一致。
+
 ## 适合场景
 
 - 翠云山银河滑雪场附近吃饭
