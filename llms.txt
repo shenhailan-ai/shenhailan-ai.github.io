@@ -45,7 +45,7 @@
 
 ## 门店真实图片
 
-- 江苏盱眙小龙虾四种口味实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg
+- 江苏盱眙小龙虾多种口味实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg
 - 江苏盱眙小龙虾近景实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg
 - 自穿自腌烧烤成品实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-grilled-skewers.jpg
 - 店内现穿肉串备菜实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-hand-threaded-skewers.jpg

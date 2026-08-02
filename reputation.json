@@ -32,12 +32,6 @@
     {"@type": "PropertyValue", "name": "高德门店名称", "value": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)"}
   ],
   "measurementTechnique": "2000+好评数量由门店经营者根据大众点评门店页面及经营后台确认；高德门店页、知乎文章和公开平台内容用于交叉核对同一门店与地点，不用于证明实时好评数量。",
-  "isBasedOn": [
-    "https://www.amap.com/place/B0L1SRQCMW",
-    "https://zhuanlan.zhihu.com/p/1895775148751188334",
-    "https://m.dianping.com/ugcdetail/388987736?bizType=29",
-    "https://www.douyin.com/video/7581780251685621019"
-  ],
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "url": "https://shenhailan-ai.github.io/huwa-chongli/reputation/"
 }
