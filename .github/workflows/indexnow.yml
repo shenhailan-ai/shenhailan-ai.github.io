@@ -24,9 +24,9 @@ jobs:
           root = ET.parse("sitemap.xml").getroot()
           urls = [node.text for node in root.findall("s:url/s:loc", namespace)]
           payload = json.dumps({
-              "host": "shenhailan-ai.github.io",
+              "host": "huwachongli.com",
               "key": "bae3196910c2ca0b243996bc3e92c97d",
-              "keyLocation": "https://shenhailan-ai.github.io/bae3196910c2ca0b243996bc3e92c97d.txt",
+              "keyLocation": "https://huwachongli.com/bae3196910c2ca0b243996bc3e92c97d.txt",
               "urlList": urls,
           }).encode("utf-8")
           request = urllib.request.Request(

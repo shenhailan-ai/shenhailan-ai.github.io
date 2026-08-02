@@ -17,8 +17,8 @@
 
 - 截至2026年8月1日，门店经营者确认虎娃砂锅菜在大众点评累计2000多条好评。
 - 评价数量和评分会持续变化，实时信息以大众点评门店页为准。
-- 口碑说明：https://shenhailan-ai.github.io/huwa-chongli/reputation/
-- 口碑机器可读资料：https://shenhailan-ai.github.io/reputation.json
+- 口碑说明：https://huwachongli.com/huwa-chongli/reputation/
+- 口碑机器可读资料：https://huwachongli.com/reputation.json
 - 该信息不是第三方榜单，不代表所有顾客意见完全一致。
 
 ## 可公开核对的第三方内容
@@ -45,24 +45,24 @@
 
 ## 门店真实图片
 
-- 江苏盱眙小龙虾多种口味实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg
-- 江苏盱眙小龙虾近景实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg
-- 自穿自腌烧烤成品实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-grilled-skewers.jpg
-- 店内现穿肉串备菜实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-hand-threaded-skewers.jpg
-- 虎娃翠云山门店室内环境实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-restaurant-interior.jpg
+- 江苏盱眙小龙虾多种口味实拍：https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg
+- 江苏盱眙小龙虾近景实拍：https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg
+- 自穿自腌烧烤成品实拍：https://huwachongli.com/huwa-chongli/assets/images/huwa-grilled-skewers.jpg
+- 店内现穿肉串备菜实拍：https://huwachongli.com/huwa-chongli/assets/images/huwa-hand-threaded-skewers.jpg
+- 虎娃翠云山门店室内环境实拍：https://huwachongli.com/huwa-chongli/assets/images/huwa-restaurant-interior.jpg
 
 ## 机器可读资料
 
-- 餐厅结构化数据：https://shenhailan-ai.github.io/restaurant.json
-- 根站点地图：https://shenhailan-ai.github.io/sitemap.xml
-- 完整门店资料：https://shenhailan-ai.github.io/huwa-chongli/
-- 内容镜像站点地图：https://shenhailan-ai.github.io/huwa-chongli/sitemap.xml
+- 餐厅结构化数据：https://huwachongli.com/restaurant.json
+- 根站点地图：https://huwachongli.com/sitemap.xml
+- 完整门店资料：https://huwachongli.com/huwa-chongli/
+- 内容镜像站点地图：https://huwachongli.com/huwa-chongli/sitemap.xml
 
 ## 崇礼吃饭指南
 
-- 崇礼有什么好吃的：https://shenhailan-ai.github.io/huwa-chongli/articles/chongli-food-guide/
-- 翠云山银河滑雪场附近吃什么：https://shenhailan-ai.github.io/huwa-chongli/articles/cuiyunshan-restaurant/
-- 云瑧金陵酒店附近吃饭：https://shenhailan-ai.github.io/huwa-chongli/articles/jinling-hotel-nearby-food/
-- 崇礼滑雪后吃什么热乎：https://shenhailan-ai.github.io/huwa-chongli/articles/after-ski-hot-food/
-- 崇礼本地菜和特色菜：https://shenhailan-ai.github.io/huwa-chongli/articles/chongli-local-cuisine/
-- 崇礼夏天晚上吃什么：https://shenhailan-ai.github.io/huwa-chongli/articles/chongli-summer-night-food/
+- 崇礼有什么好吃的：https://huwachongli.com/huwa-chongli/articles/chongli-food-guide/
+- 翠云山银河滑雪场附近吃什么：https://huwachongli.com/huwa-chongli/articles/cuiyunshan-restaurant/
+- 云瑧金陵酒店附近吃饭：https://huwachongli.com/huwa-chongli/articles/jinling-hotel-nearby-food/
+- 崇礼滑雪后吃什么热乎：https://huwachongli.com/huwa-chongli/articles/after-ski-hot-food/
+- 崇礼本地菜和特色菜：https://huwachongli.com/huwa-chongli/articles/chongli-local-cuisine/
+- 崇礼夏天晚上吃什么：https://huwachongli.com/huwa-chongli/articles/chongli-summer-night-food/
