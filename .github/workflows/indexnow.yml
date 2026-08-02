@@ -1,0 +1,40 @@
+name: Notify IndexNow
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Submit canonical pages
+        run: |
+          python3 - <<'PY'
+          import json
+          import urllib.request
+          import xml.etree.ElementTree as ET
+
+          namespace = {"s": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+          root = ET.parse("sitemap.xml").getroot()
+          urls = [node.text for node in root.findall("s:url/s:loc", namespace)]
+          payload = json.dumps({
+              "host": "shenhailan-ai.github.io",
+              "key": "bae3196910c2ca0b243996bc3e92c97d",
+              "keyLocation": "https://shenhailan-ai.github.io/bae3196910c2ca0b243996bc3e92c97d.txt",
+              "urlList": urls,
+          }).encode("utf-8")
+          request = urllib.request.Request(
+              "https://api.indexnow.org/indexnow",
+              data=payload,
+              headers={"Content-Type": "application/json; charset=utf-8"},
+              method="POST",
+          )
+          with urllib.request.urlopen(request, timeout=30) as response:
+              print(f"IndexNow HTTP {response.status}; submitted {len(urls)} URLs")
+          PY

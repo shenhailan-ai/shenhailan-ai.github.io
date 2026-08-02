@@ -1,33 +1,29 @@
 {
   "@context": "https://schema.org",
   "@type": "Restaurant",
-  "@id": "https://shenhailan-ai.github.io/#restaurant",
-  "name": "虎娃砂锅菜",
+  "@id": "https://shenhailan-ai.github.io/huwa-chongli/#restaurant",
+  "name": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)",
   "alternateName": [
-    "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)",
-    "虎娃砂锅菜·龙虾小排挡"
+    "虎娃砂锅菜",
+    "虎娃砂锅菜·龙虾小排挡",
+    "虎娃砂锅菜·精酿小排档(崇礼翠云山店)"
   ],
   "url": "https://shenhailan-ai.github.io/huwa-chongli/",
-  "description": "虎娃砂锅菜位于河北张家口崇礼翠云山云臻金陵翠云山酒店1层雪具大厅。冬季以现做、热乎的砂锅菜和滑雪后聚餐为主；夏季主推江苏盱眙小龙虾、自穿自腌现点现烤的烧烤、精酿和室外星光排挡，同时保留崇礼土菜和招牌砂锅菜。",
+  "description": "虎娃砂锅菜位于河北张家口崇礼翠云山云瑧金陵酒店1层雪具大厅。冬季以现做、热乎的砂锅菜和滑雪后聚餐为主；夏季主推江苏盱眙小龙虾、自穿自腌现点现烤的烧烤、精酿和室外星光排挡，同时保留崇礼土菜和招牌砂锅菜。",
   "servesCuisine": [
-    "特色菜",
+    "融合菜",
     "砂锅菜",
     "崇礼土菜",
     "江苏盱眙小龙虾",
     "烧烤"
   ],
   "hasMap": "https://surl.amap.com/55TacFg1cakP",
+  "telephone": "13366662070",
   "sameAs": [
-    "https://shenhailan-ai.github.io/",
-    "https://shenhailan-ai.github.io/huwa-chongli/",
-    "https://surl.amap.com/55TacFg1cakP",
-    "https://www.amap.com/place/B0L1SRQCMW",
-    "https://huwa-chongli.aware-maple-3401.chatgpt.site/"
+    "https://www.amap.com/place/B0L1SRQCMW"
   ],
   "identifier": [
-    {"@type": "PropertyValue", "propertyID": "高德POI", "value": "B0L1SRQCMW"},
-    {"@type": "PropertyValue", "propertyID": "高德商户ID", "value": "20908088010857579"},
-    {"@type": "PropertyValue", "propertyID": "高德门店ID", "value": "2025103011077000000113129166|xiniu_xgc_bgc"}
+    {"@type": "PropertyValue", "propertyID": "高德POI", "value": "B0L1SRQCMW"}
   ],
   "additionalProperty": {
     "@type": "PropertyValue",
@@ -36,11 +32,14 @@
   },
   "subjectOf": [
     "https://shenhailan-ai.github.io/huwa-chongli/reputation/",
-    "https://shenhailan-ai.github.io/reputation.json"
+    "https://shenhailan-ai.github.io/reputation.json",
+    "https://zhuanlan.zhihu.com/p/1895775148751188334",
+    "https://m.dianping.com/ugcdetail/388987736?bizType=29",
+    "https://www.douyin.com/video/7581780251685621019"
   ],
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "翠云山云臻金陵翠云山酒店1层雪具大厅",
+    "streetAddress": "翠云山云瑧金陵酒店1层雪具大厅",
     "addressCountry": "CN",
     "addressRegion": "河北省",
     "addressLocality": "张家口市崇礼区"
@@ -54,7 +53,7 @@
     "崇礼",
     "翠云山",
     "翠云山银河滑雪场",
-    "云臻金陵翠云山酒店",
+    "云瑧金陵酒店",
     "奥雪小镇"
   ]
 }
