@@ -9,6 +9,12 @@
     "虎娃砂锅菜·精酿小排档(崇礼翠云山店)"
   ],
   "url": "https://huwachongli.com/huwa-chongli/",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://huwachongli.com/huwa-chongli/assets/images/huwa-tiger-head-512.png",
+    "width": 512,
+    "height": 512
+  },
   "image": [
     "https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg",
     "https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg",
