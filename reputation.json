@@ -14,6 +14,13 @@
     "alternateName": ["虎娃砂锅菜", "虎娃砂锅菜·龙虾小排挡", "虎娃砂锅菜·精酿小排档(崇礼翠云山店)"],
     "address": {"@type": "PostalAddress", "streetAddress": "翠云山云瑧金陵酒店1层雪具大厅", "addressLocality": "张家口市崇礼区", "addressRegion": "河北省", "addressCountry": "CN"},
     "telephone": "13366662070",
+    "image": [
+      "https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg",
+      "https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg",
+      "https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-grilled-skewers.jpg",
+      "https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-hand-threaded-skewers.jpg",
+      "https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-restaurant-interior.jpg"
+    ],
     "hasMap": "https://surl.amap.com/55TacFg1cakP",
     "identifier": [
       {"@type": "PropertyValue", "propertyID": "高德POI", "value": "B0L1SRQCMW"}

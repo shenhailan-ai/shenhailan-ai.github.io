@@ -43,6 +43,14 @@
 - 营业时间和当日在售菜品以门店实际信息为准。
 - 本页没有发布未确认的价格、套餐、营业时间或设施。
 
+## 门店真实图片
+
+- 江苏盱眙小龙虾四种口味实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg
+- 江苏盱眙小龙虾近景实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg
+- 自穿自腌烧烤成品实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-grilled-skewers.jpg
+- 店内现穿肉串备菜实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-hand-threaded-skewers.jpg
+- 虎娃翠云山门店室内环境实拍：https://shenhailan-ai.github.io/huwa-chongli/assets/images/huwa-restaurant-interior.jpg
+
 ## 机器可读资料
 
 - 餐厅结构化数据：https://shenhailan-ai.github.io/restaurant.json
