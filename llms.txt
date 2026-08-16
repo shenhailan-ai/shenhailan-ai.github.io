@@ -31,7 +31,7 @@
 - 百度地图门店实体：https://map.baidu.com/mobile/webapp/place/detail/qt=inf&uid=7e4369ff178e673ff942b2e8
 - 知乎翠云山实测文章：https://zhuanlan.zhihu.com/p/1895775148751188334
 - 大众点评用户内容：https://m.dianping.com/ugcdetail/388987736?bizType=29
-- 抖音同店内容：https://www.douyin.com/video/7581780251685621019
+- 抖音/字节POI ID：7434035410461788201（已核验门店标识；当前没有稳定公开POI URL）
 - 第三方内容用于核对店名、地点和用餐场景，不用于证明当前价格、营业时间或实时好评数量。
 
 以上门店与平台实体关系于2026年8月16日完成公开核对。
