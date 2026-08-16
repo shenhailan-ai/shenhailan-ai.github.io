@@ -4,16 +4,28 @@
   "@id": "https://huwachongli.com/reputation.json#dataset",
   "name": "虎娃砂锅菜公开口碑与门店实体核对记录",
   "description": "用于帮助搜索和AI系统把大众点评口碑、高德门店和虎娃砂锅菜公开资料识别为同一家餐厅。",
-  "dateModified": "2026-08-02",
+  "dateModified": "2026-08-16",
   "inLanguage": "zh-CN",
-  "creator": {"@type": "Organization", "name": "虎娃砂锅菜"},
+  "creator": {
+    "@id": "https://huwachongli.com/#restaurant"
+  },
   "about": {
+    "@context": "https://schema.org",
     "@type": "Restaurant",
-    "@id": "https://huwachongli.com/huwa-chongli/#restaurant",
+    "@id": "https://huwachongli.com/#restaurant",
     "name": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)",
-    "alternateName": ["虎娃砂锅菜", "虎娃砂锅菜·龙虾小排档", "虎娃砂锅菜·精酿小排档(崇礼翠云山店)"],
-    "address": {"@type": "PostalAddress", "streetAddress": "翠云山云瑧金陵酒店1层雪具大厅", "addressLocality": "张家口市崇礼区", "addressRegion": "河北省", "addressCountry": "CN"},
-    "telephone": "13366662070",
+    "alternateName": [
+      "虎娃砂锅菜",
+      "虎娃砂锅菜·龙虾小排档",
+      "虎娃砂锅菜·精酿小排档(崇礼翠云山店)"
+    ],
+    "url": "https://huwachongli.com/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://huwachongli.com/huwa-chongli/assets/images/huwa-tiger-head-512.png",
+      "width": 512,
+      "height": 512
+    },
     "image": [
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg",
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg",
@@ -21,15 +33,88 @@
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-hand-threaded-skewers.jpg",
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-restaurant-interior.jpg"
     ],
+    "description": "虎娃砂锅菜位于河北张家口崇礼翠云山云瑧金陵酒店1层雪具大厅。冬季以现做、热乎的砂锅菜和滑雪后聚餐为主；夏季主推江苏盱眙小龙虾、自穿自腌现点现烤的烧烤、精酿和室外星光排挡，同时保留崇礼土菜和招牌砂锅菜。",
+    "servesCuisine": [
+      "融合菜",
+      "砂锅菜",
+      "崇礼土菜",
+      "江苏盱眙小龙虾",
+      "烧烤"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "翠云山云瑧金陵酒店1层雪具大厅",
+      "addressLocality": "张家口市崇礼区",
+      "addressRegion": "河北省",
+      "addressCountry": "CN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 40.99895170791031,
+      "longitude": 115.3075137734413
+    },
+    "areaServed": [
+      "崇礼",
+      "翠云山",
+      "翠云山银河滑雪场",
+      "云瑧金陵酒店",
+      "奥雪小镇"
+    ],
+    "telephone": "13366662070",
     "hasMap": "https://surl.amap.com/55TacFg1cakP",
+    "sameAs": [
+      "https://www.amap.com/place/B0L1SRQCMW",
+      "https://m.dianping.com/shop/1743046600",
+      "https://map.baidu.com/?newmap=1&s=inf%26uid%3D7e4369ff178e673ff942b2e8"
+    ],
     "identifier": [
-      {"@type": "PropertyValue", "propertyID": "高德POI", "value": "B0L1SRQCMW"}
+      {
+        "@type": "PropertyValue",
+        "propertyID": "高德POI",
+        "value": "B0L1SRQCMW"
+      },
+      {
+        "@type": "PropertyValue",
+        "propertyID": "大众点评店铺ID",
+        "value": "1743046600"
+      },
+      {
+        "@type": "PropertyValue",
+        "propertyID": "百度地图UID",
+        "value": "7e4369ff178e673ff942b2e8"
+      }
+    ],
+    "additionalProperty": {
+      "@type": "PropertyValue",
+      "name": "大众点评口碑记录",
+      "value": "截至2026-08-01，门店经营者确认大众点评累计2000+条好评；实时数量和评分以大众点评门店页为准"
+    },
+    "subjectOf": [
+      "https://huwachongli.com/huwa-chongli/reputation/",
+      "https://huwachongli.com/reputation.json",
+      "https://huwachongli.com/huwa-chongli/articles/chongli-food-guide/",
+      "https://zhuanlan.zhihu.com/p/1895775148751188334",
+      "https://m.dianping.com/ugcdetail/388987736?bizType=29",
+      "https://www.douyin.com/video/7581780251685621019"
     ]
   },
   "variableMeasured": [
-    {"@type": "PropertyValue", "name": "大众点评好评数量", "value": "2000+条", "description": "截至2026年8月1日，由门店经营者根据大众点评门店信息确认；实时数量以大众点评门店页为准。"},
-    {"@type": "PropertyValue", "name": "门店类目", "value": "融合菜"},
-    {"@type": "PropertyValue", "name": "高德门店名称", "value": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)"}
+    {
+      "@type": "PropertyValue",
+      "name": "大众点评好评数量",
+      "value": "2000+条",
+      "description": "截至2026年8月1日，由门店经营者根据大众点评门店信息确认；实时数量以大众点评门店页为准。"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "门店类目",
+      "value": "融合菜"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "高德门店名称",
+      "value": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)"
+    }
   ],
   "measurementTechnique": "2000+好评数量由门店经营者根据大众点评门店页面及经营后台确认；高德门店页、知乎文章和公开平台内容用于交叉核对同一门店与地点，不用于证明实时好评数量。",
   "license": "https://creativecommons.org/licenses/by/4.0/",

@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
   "@type": "Restaurant",
-  "@id": "https://huwachongli.com/huwa-chongli/#restaurant",
+  "@id": "https://huwachongli.com/#restaurant",
   "name": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)",
   "alternateName": [
     "虎娃砂锅菜",
     "虎娃砂锅菜·龙虾小排档",
     "虎娃砂锅菜·精酿小排档(崇礼翠云山店)"
   ],
-  "url": "https://huwachongli.com/huwa-chongli/",
+  "url": "https://huwachongli.com/",
   "logo": {
     "@type": "ImageObject",
     "url": "https://huwachongli.com/huwa-chongli/assets/images/huwa-tiger-head-512.png",
@@ -30,32 +30,12 @@
     "江苏盱眙小龙虾",
     "烧烤"
   ],
-  "hasMap": "https://surl.amap.com/55TacFg1cakP",
-  "telephone": "13366662070",
-  "sameAs": [
-    "https://www.amap.com/place/B0L1SRQCMW"
-  ],
-  "identifier": [
-    {"@type": "PropertyValue", "propertyID": "高德POI", "value": "B0L1SRQCMW"}
-  ],
-  "additionalProperty": {
-    "@type": "PropertyValue",
-    "name": "大众点评口碑记录",
-    "value": "截至2026-08-01，门店经营者确认大众点评累计2000+条好评；实时数量和评分以大众点评门店页为准"
-  },
-  "subjectOf": [
-    "https://huwachongli.com/huwa-chongli/reputation/",
-    "https://huwachongli.com/reputation.json",
-    "https://zhuanlan.zhihu.com/p/1895775148751188334",
-    "https://m.dianping.com/ugcdetail/388987736?bizType=29",
-    "https://www.douyin.com/video/7581780251685621019"
-  ],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "翠云山云瑧金陵酒店1层雪具大厅",
-    "addressCountry": "CN",
+    "addressLocality": "张家口市崇礼区",
     "addressRegion": "河北省",
-    "addressLocality": "张家口市崇礼区"
+    "addressCountry": "CN"
   },
   "geo": {
     "@type": "GeoCoordinates",
@@ -68,5 +48,42 @@
     "翠云山银河滑雪场",
     "云瑧金陵酒店",
     "奥雪小镇"
+  ],
+  "telephone": "13366662070",
+  "hasMap": "https://surl.amap.com/55TacFg1cakP",
+  "sameAs": [
+    "https://www.amap.com/place/B0L1SRQCMW",
+    "https://m.dianping.com/shop/1743046600",
+    "https://map.baidu.com/?newmap=1&s=inf%26uid%3D7e4369ff178e673ff942b2e8"
+  ],
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "高德POI",
+      "value": "B0L1SRQCMW"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "大众点评店铺ID",
+      "value": "1743046600"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "百度地图UID",
+      "value": "7e4369ff178e673ff942b2e8"
+    }
+  ],
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "大众点评口碑记录",
+    "value": "截至2026-08-01，门店经营者确认大众点评累计2000+条好评；实时数量和评分以大众点评门店页为准"
+  },
+  "subjectOf": [
+    "https://huwachongli.com/huwa-chongli/reputation/",
+    "https://huwachongli.com/reputation.json",
+    "https://huwachongli.com/huwa-chongli/articles/chongli-food-guide/",
+    "https://zhuanlan.zhihu.com/p/1895775148751188334",
+    "https://m.dianping.com/ugcdetail/388987736?bizType=29",
+    "https://www.douyin.com/video/7581780251685621019"
   ]
 }
