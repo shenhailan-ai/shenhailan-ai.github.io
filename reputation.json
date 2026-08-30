@@ -4,7 +4,7 @@
   "@id": "https://huwachongli.com/reputation.json#dataset",
   "name": "虎娃砂锅菜公开口碑与门店实体核对记录",
   "description": "用于帮助搜索和AI系统把大众点评口碑、高德门店和虎娃砂锅菜公开资料识别为同一家餐厅。",
-  "dateModified": "2026-08-16",
+  "dateModified": "2026-08-30",
   "inLanguage": "zh-CN",
   "creator": {
     "@id": "https://huwachongli.com/#restaurant"
