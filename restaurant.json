@@ -37,6 +37,22 @@
     "addressRegion": "河北省",
     "addressCountry": "CN"
   },
+  "containedInPlace": {
+    "@type": "Hotel",
+    "@id": "https://huwachongli.com/#yunzen-jinling-cuiyunshan-hotel",
+    "name": "张家口云瑧金陵翠云山酒店",
+    "alternateName": [
+      "云瑧金陵翠云山酒店",
+      "云瑧金陵酒店"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "西湾子镇大夹道沟",
+      "addressLocality": "张家口市崇礼区",
+      "addressRegion": "河北省",
+      "addressCountry": "CN"
+    }
+  },
   "geo": {
     "@type": "GeoCoordinates",
     "latitude": 40.99895170791031,
