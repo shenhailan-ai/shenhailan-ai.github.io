@@ -45,6 +45,9 @@
       "云瑧金陵翠云山酒店",
       "云瑧金陵酒店"
     ],
+    "sameAs": [
+      "https://hotels.ctrip.com/hotels/68687422.html"
+    ],
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "西湾子镇大夹道沟",
@@ -104,6 +107,7 @@
     "https://huwachongli.com/reputation.json",
     "https://huwachongli.com/huwa-chongli/articles/chongli-food-guide/",
     "https://zhuanlan.zhihu.com/p/1895775148751188334",
-    "https://m.dianping.com/ugcdetail/388987736?bizType=29"
+    "https://m.dianping.com/ugcdetail/388987736?bizType=29",
+    "https://hk.trip.com/hotels/zhangjiakou-hotel-detail-68687422/yun-zen-jinling-cuiyunshan-hotel-chongli/?locale=zh-HK"
   ]
 }

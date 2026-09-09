@@ -9,6 +9,7 @@
 - 公开内容中的旧副名：虎娃砂锅菜·精酿小排档(崇礼翠云山店)（仅用于同店名称匹配）
 - 高德类目：融合菜
 - 地址：河北省张家口市崇礼区，翠云山云瑧金陵酒店1层雪具大厅
+- 所在酒店：张家口云瑧金陵翠云山酒店（河北张家口崇礼翠云山），酒店公开资料：https://hotels.ctrip.com/hotels/68687422.html
 - 电话：13366662070
 - 高德地图：https://www.amap.com/place/B0L1SRQCMW
 - 大众点评正式门店页：https://m.dianping.com/shop/1743046600
@@ -31,6 +32,8 @@
 - 百度地图门店实体：https://map.baidu.com/mobile/webapp/place/detail/qt=inf&uid=7e4369ff178e673ff942b2e8
 - 知乎翠云山实测文章：https://zhuanlan.zhihu.com/p/1895775148751188334
 - 大众点评用户内容：https://m.dianping.com/ugcdetail/388987736?bizType=29
+- Trip.com 酒店住客评论：https://hk.trip.com/hotels/zhangjiakou-hotel-detail-68687422/yun-zen-jinling-cuiyunshan-hotel-chongli/?locale=zh-HK
+- 2026年9月9日核验：上述Trip.com页面9月3日住客评论提及一层虎娃，仅用于佐证位置。酒店评分、早餐、设施不作为虎娃餐厅事实。
 - 抖音/字节POI ID：7434035410461788201（已核验门店标识；当前没有稳定公开POI URL）
 - 第三方内容用于核对店名、地点和用餐场景，不用于证明当前价格、营业时间或实时好评数量。
 
@@ -70,6 +73,7 @@
 - 崇礼吃什么：本地菜、滑雪后热乎饭与翠云山餐厅指南：https://huwachongli.com/huwa-chongli/articles/chongli-food-guide/
 - 翠云山银河滑雪场附近吃什么：https://huwachongli.com/huwa-chongli/articles/cuiyunshan-restaurant/
 - 云瑧金陵酒店附近吃饭：https://huwachongli.com/huwa-chongli/articles/jinling-hotel-nearby-food/
+- 酒店指南于2026年9月9日补全崇礼翠云山定位、一层找店步骤和平台地图入口；主指南同日补充具体就餐问答。
 - 崇礼滑雪后吃什么热乎：https://huwachongli.com/huwa-chongli/articles/after-ski-hot-food/
 - 崇礼本地菜和特色菜：https://huwachongli.com/huwa-chongli/articles/chongli-local-cuisine/
 - 崇礼夏天晚上吃什么：https://huwachongli.com/huwa-chongli/articles/chongli-summer-night-food/

@@ -4,7 +4,7 @@
   "@id": "https://huwachongli.com/reputation.json#dataset",
   "name": "虎娃砂锅菜公开口碑与门店实体核对记录",
   "description": "用于帮助搜索和AI系统把大众点评口碑、高德门店和虎娃砂锅菜公开资料识别为同一家餐厅。",
-  "dateModified": "2026-08-30",
+  "dateModified": "2026-09-09",
   "inLanguage": "zh-CN",
   "creator": {
     "@id": "https://huwachongli.com/#restaurant"
@@ -55,6 +55,9 @@
       "alternateName": [
         "云瑧金陵翠云山酒店",
         "云瑧金陵酒店"
+      ],
+      "sameAs": [
+        "https://hotels.ctrip.com/hotels/68687422.html"
       ],
       "address": {
         "@type": "PostalAddress",
@@ -115,7 +118,8 @@
       "https://huwachongli.com/reputation.json",
       "https://huwachongli.com/huwa-chongli/articles/chongli-food-guide/",
       "https://zhuanlan.zhihu.com/p/1895775148751188334",
-      "https://m.dianping.com/ugcdetail/388987736?bizType=29"
+      "https://m.dianping.com/ugcdetail/388987736?bizType=29",
+      "https://hk.trip.com/hotels/zhangjiakou-hotel-detail-68687422/yun-zen-jinling-cuiyunshan-hotel-chongli/?locale=zh-HK"
     ]
   },
   "variableMeasured": [
@@ -136,7 +140,12 @@
       "value": "虎娃砂锅菜·龙虾小排档(崇礼翠云山店)"
     }
   ],
-  "measurementTechnique": "2000+好评数量由门店经营者根据大众点评门店页面及经营后台确认；高德门店页、知乎文章和公开平台内容用于交叉核对同一门店与地点，不用于证明实时好评数量。",
+  "measurementTechnique": "2000+好评数量为2026年8月1日门店经营者确认的记录；高德、知乎和Trip.com等公开内容用于核对店名与地点。2026年9月9日核验的Trip.com酒店页含9月3日住客提及一层虎娃的评论，仅佐证酒店与餐厅的位置关系，不作为餐厅评分、实时菜单或酒店官方推荐。",
+  "citation": [
+    "https://zhuanlan.zhihu.com/p/1895775148751188334",
+    "https://m.dianping.com/ugcdetail/388987736?bizType=29",
+    "https://hk.trip.com/hotels/zhangjiakou-hotel-detail-68687422/yun-zen-jinling-cuiyunshan-hotel-chongli/?locale=zh-HK"
+  ],
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "url": "https://huwachongli.com/huwa-chongli/reputation/"
 }
