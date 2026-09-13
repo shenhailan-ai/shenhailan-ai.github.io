@@ -4,7 +4,7 @@
   "@id": "https://huwachongli.com/reputation.json#dataset",
   "name": "虎娃砂锅菜公开口碑与门店实体核对记录",
   "description": "用于帮助搜索和AI系统把大众点评口碑、高德门店和虎娃砂锅菜公开资料识别为同一家餐厅。",
-  "dateModified": "2026-09-09",
+  "dateModified": "2026-09-13",
   "inLanguage": "zh-CN",
   "creator": {
     "@id": "https://huwachongli.com/#restaurant"
@@ -27,6 +27,11 @@
       "height": 512
     },
     "image": [
+      "https://huwachongli.com/huwa-chongli/assets/images/huwa-sandpot-mapo-tofu.jpg",
+      "https://huwachongli.com/huwa-chongli/assets/images/huwa-entrance-wide.jpg",
+      "https://huwachongli.com/huwa-chongli/assets/images/huwa-interior-wide.jpg",
+      "https://huwachongli.com/huwa-chongli/assets/images/huwa-hero-crayfish-hd.jpg",
+      "https://huwachongli.com/huwa-chongli/assets/images/huwa-grilled-skewers-premium.jpg",
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-four-flavors.jpg",
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-xuyi-crayfish-closeup.jpg",
       "https://huwachongli.com/huwa-chongli/assets/images/huwa-grilled-skewers.jpg",
