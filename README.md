@@ -5,6 +5,8 @@
 规范门店地址：[https://huwachongli.com/](https://huwachongli.com/)
 虎娃砂锅菜（崇礼翠云山店）公开资料与崇礼吃饭指南入口
 
+2026年10月9日经营者确认2026—2027雪季主推：崇礼土菜地锅鸡、牛羊肉、烧烤。具体开售、供应、做法和价格以门店当日信息为准。现有[雪季就餐指南](https://huwachongli.com/huwa-chongli/articles/after-ski-hot-food/)保留原URL，首页与结构化资料同步更新；不将商家介绍写成独立榜单。
+
 ## 可核对门店实体
 
 - [高德正式门店页](https://www.amap.com/place/B0L1SRQCMW)
