@@ -11,6 +11,7 @@
 
 - [高德正式门店页](https://www.amap.com/place/B0L1SRQCMW)
 - [大众点评正式门店页](https://m.dianping.com/shop/1743046600)
+- [携程餐厅资料](https://you.ctrip.com/food/zhangjiakou497/154490042.html)：2026年10月26日核对店名、酒店一层地址及电话一致；门店POI为154490042。
 - [百度地图门店实体](https://map.baidu.com/mobile/webapp/place/detail/qt=inf&uid=7e4369ff178e673ff942b2e8)
 - [崇礼吃饭指南](https://huwachongli.com/huwa-chongli/)
 - [RSS 内容订阅](https://huwachongli.com/feed.xml)
